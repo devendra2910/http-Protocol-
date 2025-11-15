@@ -15,10 +15,10 @@ SERVER
 
 
 
-<img width="1918" height="878" alt="Screenshot_2025-10-09_01_00_32" src="https://github.com/user-attachments/assets/074fc48a-d382-47dc-b76b-3e731bd1af5d" />
+<img width="1918" height="878" alt="Screenshot_2025-10-09_01_00_32" src="https://github.com/user-attachments/assets/" />
 
 CLIENT
 
 
 
-<img width="1918" height="878" alt="Screenshot_2025-10-09_01_00_38" src="https://github.com/user-attachments/assets/164a30dc-db1e-4078-bc07-8088fd368c29" />
+<img width="1918" height="878" alt="Screenshot_2025-10-09_01_00_38" src="https://github.com/user-attachments/assets/ />:
